@@ -1,0 +1,4 @@
+sqlalchemy
+pandas
+pydantic
+loguru
